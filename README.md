@@ -20,7 +20,7 @@ Notification is via libnotify and visual bell raised in the tmux window. Visual 
 
 Using [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm), add:
 
-    set -g @plugin 'ChanderG/tmux-notify'
+    set -g @plugin 'nat-chan/tmux-notify'
 
 to your `.tmux.conf`.
 
