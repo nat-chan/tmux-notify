@@ -1,10 +1,9 @@
 # tmux-notify
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab27b2b704364bdd993f2c829473cebf)](https://www.codacy.com/app/rickstaa/tmux-notify?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rickstaa/tmux-notify&amp;utm_campaign=Badge_Grade)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)](https://github.com/ChanderG/tmux-notify/pulse)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)](contributing.md)
 [![Tmux version](https://img.shields.io/badge/tmux-%3D%3E1.9-blue)](https://github.com/tmux/tmux/wiki)
 
-<a href="https://github.com/ChanderG/tmux-notify"><img src="resources/tmux-notify-logo.svg" alt="tmux notify logo" width="567" height="135"/></a>
+![screen shot](https://i.imgur.com/3m3LkFt.gif)
 
 Tmux plugin to notify you when processes complete.
 
